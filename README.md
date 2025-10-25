@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/noob-coder6/four-card-feature-section)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/noob-coder6/4-card-feature-selection.git)
+- Live Site URL: [Live Demo](https://noob-coder6.github.io/4-card-feature-selection/)
 
 
 ### Built with
